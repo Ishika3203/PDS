@@ -1,0 +1,81 @@
+
+@import url('https://rsms.me/inter/inter.css');
+
+.responsive {
+    position: absolute;
+    
+}
+
+body {
+    position: relative;
+    justify-content: center;
+}
+
+h1 {
+    
+    position: absolute;
+    width: 190px;
+    height: 13px;
+    left: 93px;
+    top: 536px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 13px;
+    /* identical to box height, or 65% */
+
+    text-align: center;
+    letter-spacing: 0.4px;
+
+    color: #544A0C;
+}
+
+.btn {
+    border: none;
+    position: absolute;
+    width: 303px;
+    height: 44px;
+    left: 36px;
+    top: 598px;
+    border-radius: 12px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 13px;
+    /* identical to box height, or 87% */
+    
+    text-align: center;
+    letter-spacing: 0.4px;
+
+    color: #544A0C;
+    background-color: white;
+}
+
+h2 {
+    position: absolute;
+    width: 280px;
+    height: 13px;
+    left: 48px;
+    top: 682px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+/* identical to box height, or 93% */
+
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #544A0C;
+}
+
+.txt3 {
+    font-size: 15px;
+}
+
+
+
